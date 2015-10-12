@@ -12,7 +12,7 @@ Usage of zstream:
 ```
 
 * `-c string` _(Required)_
-  * Address of the camera, including the address and the port separated by a colon
+  * Address of the camera, including the address and the port separated by a colon. The port is normally 8000.
 * `-l string` _(Optional)_
   * Address and TCP port on which to listen. Defaults to port 8888 on all addresses.
 
